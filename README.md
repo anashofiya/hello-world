@@ -1,2 +1,2 @@
 # hello-world
-First time using github. I hope I an learn it well.
+First time using github. I hope I learn it well.
